@@ -1,0 +1,1 @@
+/* Define recipe schema with fields like title, ingredients, and user ID. */
